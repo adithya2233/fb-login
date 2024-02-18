@@ -1,0 +1,21 @@
+.container-2{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 15%;
+    margin-top: 15%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    box-sizing: border-box;
+    padding: 5%;
+    border-radius: 2%;
+}
+#login-btn{
+    margin-bottom: 3%;
+}
+#create-account-btn{
+    margin-top: 5%;
+    margin-left: 30%;
+    background-color: #42b72a;
+    color: #fff;
+}
